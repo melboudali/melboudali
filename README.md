@@ -1,8 +1,8 @@
-### Hello World 👋
-
 <div align="center">
-    <img width= "500px" src='https://i.imgur.com/ghKdsGK.jpg' alt='meme'/>
+    <img width= "100%" src='https://i.imgur.com/Pe4UrQp.jpg' alt='meme'/>
 </div>
+
+### Hello World 👋
 
 - 🔭 I’m currently working on React Shop
 - 🌱 I’m currently learning React/Typescript/Gatsby/NextJS/Docker
