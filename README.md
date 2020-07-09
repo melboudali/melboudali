@@ -1,5 +1,5 @@
 <div align="left">
-    <img width= "70%" src='https://i.imgur.com/4U4BIBV.jpg' alt='meme'/>
+    <img width= "100%" height="200px" src='https://i.imgur.com/4U4BIBV.jpg' alt='meme'/>
 </div>
 
 ### Hello World 👋
