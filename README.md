@@ -4,8 +4,8 @@
 
 ### Hello World 👋
 
-- 🔭 I’m currently working on React Shop
-- 🌱 I’m currently learning React/Typescript/Gatsby/NextJS/Docker
+- 🔭 I’m currently working on React Shop.
+- 🌱 I’m currently learning React/Typescript/Gatsby/NextJS/Docker.
 
 🎼 now ᴘʟᴀʏɪɴɢ: Who asked (Feat: Nobody) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸:𝟷𝟾 / 𝟹:𝟻𝟼⠀───○ 🔊
 <!--
