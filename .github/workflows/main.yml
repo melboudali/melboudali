@@ -12,4 +12,4 @@ jobs:
           feed-url: https://elboudali.com/rss.xml/
           readme-section: feed
           max: 3
-          template: "#### * [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "- [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
