@@ -2,5 +2,5 @@
 
 ### 📙 Recent Blog Posts
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
