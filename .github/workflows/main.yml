@@ -1,0 +1,15 @@
+name: Update readme with blog posts
+on: 
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://elboudali.com/rss.xml/
+          readme-section: feed
+          max: 3
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
