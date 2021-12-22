@@ -2,6 +2,8 @@
 
 ## ⚡️ Latest articles on [my blog](https://elboudali.com/blog/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXsQAXx_ao0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!--START_SECTION:feed-->
 * [Add blog posts dynamically to your GitHub README](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;2021&#x2F;add-blog-posts-dynamically-to-your-github-readme&#x2F;)
 * [How to set up Gatsby with TypeScript](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;2021&#x2F;how-to-set-up-gatsby-with-typescript&#x2F;)
