@@ -7,8 +7,3 @@
 * [How to set up Gatsby with TypeScript](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;2021&#x2F;how-to-set-up-gatsby-with-typescript&#x2F;)
 * [Connecting to GitHub with SSH](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;2021&#x2F;connecting-to-github-with-ssh&#x2F;)
 <!--END_SECTION:feed-->
-
-## ⚡️ Keep up to date
-
-- [Website](https://elboudali.com/)
-- [Twitter](https://twitter.com/moelboudali)
