@@ -1,6 +1,6 @@
 <!--![elboudali website](https://res.cloudinary.com/elboudali/image/upload/v1624985308/my%20images/elboudali_f9aoie.png "elboudali.com")-->
 
-## ⚡️ Latest articles on [my blog](https://elboudali.com/blog/)
+## ⚡️ Latest articles on [elboudali.com](https://elboudali.com)
 
 <!--START_SECTION:feed-->
 * [How to set up Next.js with TypeScript](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;2022&#x2F;how-to-setup-next-js-with-typescript&#x2F;)
