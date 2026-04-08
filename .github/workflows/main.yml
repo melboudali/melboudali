@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://elboudali.com/feed.xml/
+          feed-url: https://elboudali.com/rss.xml
           readme-section: feed
           max: 5
           template: "* [{{ title }}]({{ link }})"
