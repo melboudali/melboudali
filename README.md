@@ -9,3 +9,5 @@
 * [How to set up Gatsby with TypeScript](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;how-to-set-up-gatsby-with-typescript)
 * [Connecting to GitHub with SSH](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;connecting-to-github-with-ssh)
 <!--END_SECTION:feed-->
+
+<div align="right"><a href="https://elboudali.com">→ All articles</a></div>
