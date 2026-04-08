@@ -1,6 +1,6 @@
 <!--![elboudali website](https://res.cloudinary.com/elboudali/image/upload/v1624985308/my%20images/elboudali_f9aoie.png "elboudali.com")-->
 
-## ⚡️ Latest articles on [elboudali.com](https://elboudali.com)
+## 📝 Latest articles on [elboudali.com](https://elboudali.com)
 
 <!--START_SECTION:feed-->
 * [React2Shell (CVE-2025-55182): A Real Incident on Azure App Service and How I Fixed It](https:&#x2F;&#x2F;elboudali.com&#x2F;blog&#x2F;react2shell-incident-report)
