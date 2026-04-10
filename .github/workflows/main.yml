@@ -1,16 +1,15 @@
 name: Update readme with blog posts
-on: 
+on:
   schedule:
-    # Runs at 00:00 UTC every day.
     - cron: '0 0 * * *'
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://elboudali.com/rss.xml
-          readme-section: feed
-          max: 5
-          template: "* [{{ title }}]({{ link }}) — {{ category }}"
+          feed_list: "https://elboudali.com/rss.xml"
+          max_post_count: 5
+          template: "* [$title]($url) — $category"
+          date_format: "MMM DD, YYYY"
