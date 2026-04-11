@@ -15,5 +15,4 @@ jobs:
           feed_list: "https://elboudali.com/rss.xml"
           max_post_count: 5
           custom_tags: "readingTime/category/"
-          template: "* [$title]($url) - $readingTime"
-          newline_char: "\n"
+          template: '* [$title]($url) - $readingTime$newline'
