@@ -3,16 +3,13 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-permissions:
-  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://elboudali.com/rss.xml"
-          max_post_count: 5
-          custom_tags: "readingTime/category/"
-          template: '* [$title]($url) - $readingTime$newline'
+          feed-url: https://elboudali.com/rss.xml
+          readme-section: feed
+          max: 5
+          template: "* [{{ title }}]({{ link }})"
